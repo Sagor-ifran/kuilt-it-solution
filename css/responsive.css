@@ -101,7 +101,7 @@
     }
 
     .Choose_section {
-        padding: 90px 0px 90px 0px;
+        padding: 0px;
     }
 
     .choose_area {
@@ -113,7 +113,7 @@
     }
 
     .single_choose p {
-        margin: 0px 100px;
+        margin: 0px 10px;
     }
 
     .review_img {
@@ -180,7 +180,7 @@
     }
 
     .review_section {
-        padding: 90px 0px;
+        padding: 90px 0px 0px 0px;
     }
 
 
@@ -198,8 +198,8 @@
     /* carear page start */
 
     .carear_section {
-        margin-bottom: 90px;
-        margin-top: 100px;
+        margin-bottom: 70px;
+        margin-top: 90px;
     }
 
     /* carear page end */
@@ -246,7 +246,33 @@
     .main_menu .navbar-toggler:focus {
         box-shadow: none;
     }
+
+    .about_img .img_1 {
+        margin-left: 140px;
+    }
+
+    .about_img .img_2 {
+        left: 38%;
+    }
+
+    .about_img .img_3 {
+        left: 90px;
+    }
+
+    .counter_service_area {
+        margin-top: 100px;
+    }
+
+    .carear_dtls_section {
+        margin: 75px 0px 90px;
+    }
+
+    .Forget_Pass_section {
+        padding: 90px 0px;
+    }
 }
+
+
 
 
 
@@ -370,11 +396,17 @@
     }
 
     .single_choose p {
-        margin: 0px 100px;
+        margin: 0px 35px;
     }
 
     .review_img {
-        margin-left: 20px;
+        margin-left: 30px;
+        width: 53%;
+        margin-bottom: 55px;
+    }
+
+    .review_text {
+        padding-left: 0px;
     }
 
     .single_blog {
@@ -382,7 +414,7 @@
     }
 
     .blog_section {
-        margin: 20px 0px 70px 0px;
+        margin: 70px 0px 70px 0px;
     }
 
     .footer_contant {
@@ -440,7 +472,7 @@
     }
 
     .team_section {
-        margin: 90px 0px 59px 0px;
+        margin: 0px 0px 59px 0px;
     }
 
     /* about page end */
@@ -485,7 +517,7 @@
     /* login page end */
 
     .log_in_area {
-        margin: 50px 0px;
+        margin: 70px 0px;
     }
 
     /* login page end */
@@ -614,6 +646,7 @@
     .main_menu ul .nav-item:last-child .nav-link {
         width: 25%;
         margin: auto;
+        margin-top: 13px;
     }
 
     .main_menu #navbarSupportedContent {
@@ -636,7 +669,7 @@
         top: 100%;
         visibility: visible;
         z-index: 1;
-        left: 6%;
+        left: 32%;
     }
 
     .Droap_menu {
@@ -649,6 +682,22 @@
 
     .single_choose {
         padding: 10px 0px 0px 0px;
+    }
+
+    .counter_service_area {
+        margin-top: 100px;
+    }
+
+    .carear_dtls_section {
+        margin: 75px 0px 90px;
+    }
+
+    .Checkout_section {
+        margin: 75px 0px;
+    }
+
+    .Error_section {
+        margin: 90px 0px;
     }
 }
 
@@ -852,7 +901,7 @@
     }
 
     .team_section {
-        margin: 70px 0px 0px 0px;
+        margin: 40px 0px 30px 0px;
     }
 
     .single_team {
@@ -1052,7 +1101,7 @@
 
     .about_us_img {
         position: relative;
-        padding-left: 88px;
+        padding-left: 42px;
     }
 
     .about_us_img .about_us_img1::after {
@@ -1080,7 +1129,7 @@
 
     .about_us_img .about_us_img2 {
         top: 179px;
-        right: 160px;
+        right: 204px;
         width: 166px;
         height: 117px;
     }
@@ -1129,8 +1178,12 @@
         padding: 0;
     }
 
+    .team_section {
+        margin: 0px 0px 59px 0px;
+    }
+
     .counter_service_area {
-        margin-top: 70px;
+        margin-top: 80px;
     }
 
     /* service page end */
@@ -1157,273 +1210,68 @@
 
     }
 
-
-    /* blog page end */
-
-
-    /* shop page start */
-
-    .shop_section {
-        margin: 60px 0px 75px 0px;
+    .contact_info {
+        padding: 70px 0px 70px 0px;
     }
 
-    .blog_pageination {
-        margin-top: 30px;
+    .B_List_View_section {
+        margin: 70px 0px;
     }
 
-    /* shop page end */
+    .carear_section {
+        margin-bottom: 50px;
+        margin-top: 70px;
+    }
 
-
-    /* F password page start */
-
-    .log_in_area {
-        margin: 50px 0px;
-
+    .carear_dtls_section {
+        margin: 50px 0px 70px;
     }
 
     .Forget_Pass_section {
-        padding: 75px 0px;
+        padding: 70px 0px;
     }
 
-    /* F password page end */
-
-    /*  faq page start */
-
-    .FAQ_section {
-        margin: 75px 0px 60px;
+    .log_in_area {
+        margin: 70px 0px;
     }
-
-    /*  faq page end */
-
-    /*  praiceing page start */
 
     .pricing_section {
-        margin: 75px 0px 65px;
+        margin: 70px 0px;
     }
 
-    .single_priceing {
-        margin-bottom: 25px;
-    }
-
-
-    /*  praiceing page end */
-
-
-    /*  check page start */
-
-    .Checkout_section {
-        margin: 50px 0px;
-    }
-
-    .payment_item {
-        padding: 25px;
-        margin-top: 30px;
-    }
-
-    /*  checck page end */
-
-    /*  payment page start */
-
-    .Payment_section {
-        margin: 50px 0px;
-    }
-
-    .payment_mathod ul li {
-        width: 44%;
-        margin: 25px 13px 0px 13px !important;
-    }
-
-    .payment_mathod ul .thard_child {
-        margin-right: 13px !important;
-    }
-
-    /*  payment page end */
-
-    /*  terms page start */
-    .Privacy_section {
-        margin: 50px 0px;
-    }
-
-    .career_detl_text {
-        margin-top: 0;
-    }
-
-    .career_detl_text h3 {
-        font-size: 20px;
-    }
-
-    /*  terms page end */
-
-    /*  privacy page start */
-    .Privacy_section {
-        margin: 50px 0px;
-    }
-
-    .career_detl_text {
-        margin-top: 0;
-    }
-
-    .career_detl_text h3 {
-        font-size: 20px;
-    }
-
-    /*  privacy page end */
-
-    /*  Error page start */
-
-    .Error_section {
-        margin: 50px 0px;
-    }
-
-    .error_text h2 {
-        font-size: 25px;
-    }
-
-    /*  Error page end */
-
-
-    /*  blog_view page start */
-
-    .B_List_View_section {
+    .FAQ_section {
         margin: 75px 0px;
     }
 
-    .bolg_list_img {
-        height: 185px;
+    .shop_section {
+        margin: 75px 0px;
     }
-
-    .blog_list_text .title {
-        font-size: 20px;
-    }
-
-    .blog_list_sidebar {
-        margin-top: 20px;
-    }
-
-    .sidebar_blog ul li a img {
-        width: 60px !important;
-        height: 60px !important;
-    }
-
-    .blog_sidebar_text h4 {
-        font-size: 18px;
-    }
-
-    /*  blog_view page end */
-
-
-    /*  service_det page end */
 
     .Service_Det {
         margin: 75px 0px;
     }
 
-    .Service_Det_img {
-        height: 160px;
-    }
-
-    .Service_Det_center_img {
-        height: 180px;
-    }
-
-    .service_det_pageination {
-        padding: 25px;
-    }
-
-    .sidebar_search {
-        margin-top: 40px;
-    }
-
-    /*  service_det page end */
-
-    /*  carear_det page start */
-    .carear_dtls_section {
+    .Checkout_section {
         margin: 75px 0px;
     }
 
-    .career_detl_text {
-        margin-bottom: 25px;
+    .Payment_section {
+        margin: 75px 0px;
     }
 
-    .carear_section {
-        margin-bottom: 63px;
-        margin-top: 75px;
+    .Privacy_section {
+        margin: 75px 0px;
     }
 
-    /*  carear_det page end */
-
-    /*  contact page strat */
-
-    .contact_info {
-        padding: 75px 0px 75px 0px;
+    .Error_section {
+        margin: 75px 0px;
     }
-
-    .contact_address h3 {
-        font-size: 25px;
-    }
-
-    .contact_address ul li .icon {
-        width: 60px;
-        height: 60px;
-        line-height: 60px;
-        font-size: 20px;
-    }
-
-    .contact_address ul li .text h5 {
-        font-size: 16px;
-    }
-
-    .contact_address {
-        margin-bottom: 45px;
-    }
-
-    .contact_form h3 {
-        font-size: 25px;
-    }
-
-    /*  contact page end */
-
-    .main_menu .navbar-toggler:focus {
-        box-shadow: none;
-    }
-
-
-    .main_menu ul .nav-item:last-child .nav-link {
-        width: 50%;
-        margin: auto;
-        margin-top: 16px;
-    }
-
-    .main_menu #navbarSupportedContent {
-        background: #fff;
-        margin-top: 13px;
-        border: 1px solid #ddd;
-        padding: 25px 0px 35px 0px;
-    }
-
-    .main_menu .navbar-nav .nav-item .nav-link {
-        color: #161735;
-        text-align: center;
-        line-height: 44px;
-        font-size: 16px;
-    }
-
-    .main_menu .navbar-nav .nav-item:hover .Droap_menu {
-        opacity: 1;
-        top: 100%;
-        visibility: visible;
-        z-index: 1;
-        left: 26%;
-    }
-
-    .Droap_menu {
-        max-height: 256px;
-    }
-
-
-
 
 }
+
+
+
+
 
 
 
@@ -1624,14 +1472,14 @@
     }
 
     .team_section {
-        margin: 70px 0px 0px 0px;
+        margin: 40px 0px 35px 0px;
     }
 
     .single_team {
         width: 100%;
         height: 320px;
         margin: auto;
-        margin-bottom: 20px;
+        margin-bottom: 25px;
     }
 
     .team_text h3 {
@@ -1941,8 +1789,8 @@
 
 
     .carear_section {
-        margin-bottom: 75px;
-        margin-top: 75px;
+        margin-bottom: 50px;
+        margin-top: 70px;
     }
 
     .single_carear h2 {
@@ -1959,7 +1807,7 @@
     /* F password page start */
 
     .Forget_Pass_section {
-        padding: 75px 0px;
+        padding: 70px 0px;
     }
 
     /* F password page end */
@@ -1999,7 +1847,7 @@
     /*  check page start */
 
     .Checkout_section {
-        margin: 50px 0px;
+        margin: 75px 0px;
     }
 
     .payment_item {
@@ -2013,7 +1861,7 @@
     /*  payment page start */
 
     .Payment_section {
-        margin: 50px 0px;
+        margin: 75px 0px;
     }
 
     .payment_mathod ul li {
@@ -2040,7 +1888,7 @@
 
     /*  privacy page start */
     .Privacy_section {
-        margin: 50px 0px;
+        margin: 75px 0px;
     }
 
     .career_detl_text {
@@ -2057,7 +1905,7 @@
     /*  Error page start */
 
     .Error_section {
-        margin: 50px 0px;
+        margin: 75px 0px;
     }
 
     .error_text h2 {
@@ -2132,7 +1980,7 @@
 
     /*  carear_det page start */
     .carear_dtls_section {
-        margin: 75px 0px;
+        margin: 70px 0px 50px;
     }
 
     .career_detl_text {
@@ -2204,5 +2052,7 @@
     .Droap_menu {
         max-height: 256px;
     }
+
+
 
 }
